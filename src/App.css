@@ -17,3 +17,9 @@ nav {
   width: 50%;
   list-style-type: none;
 }
+
+.shop-items {
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+}
